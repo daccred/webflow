@@ -1,4 +1,4 @@
-body {
+ody {
   background-color: #f5f5f5;
   font-family: bilo;
   color: #2d2d2d;
@@ -3513,95 +3513,53 @@ a {
     padding-bottom: 10px;
   }
 }
+@font-face {
+  font-family: 'BR Firma';
+  src: url('../fonts/BRFirma-Bold.woff2') format('woff2'),
+      url('../fonts/BRFirma-Bold.woff') format('woff'),
+      url('../fonts/BRFirma-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Light-Italic.otf') format('opentype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Regular-Italic.otf') format('opentype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma extra';
-  src: url('../fonts/BR-Firma-Extra-Light-Italic.otf') format('opentype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma extra';
-  src: url('../fonts/BR-Firma-Extra-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-SemiBold-Italic.otf') format('opentype');
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Bold-Italic.otf') format('opentype');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Thin-Italic.otf') format('opentype');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Medium-Italic.otf') format('opentype');
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Medium.otf') format('opentype');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-SemiBold.otf') format('opentype');
+  font-family: 'BR Firma';
+  src: url('../fonts/BRFirma-SemiBold.woff2') format('woff2'),
+      url('../fonts/BRFirma-SemiBold.woff') format('woff'),
+      url('../fonts/BRFirma-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Regular.otf') format('opentype');
-  font-weight: 400;
+  font-family: 'BR Firma';
+  src: url('../fonts/BRFirma-RegularItalic.woff2') format('woff2'),
+      url('../fonts/BRFirma-RegularItalic.woff') format('woff'),
+      url('../fonts/BRFirma-RegularItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BR Firma';
+  src: url('../fonts/BRFirma-Regular.woff2') format('woff2'),
+      url('../fonts/BRFirma-Regular.woff') format('woff'),
+      url('../fonts/BRFirma-Regular.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
-  font-family: 'Br firma';
-  src: url('../fonts/BR-Firma-Bold.otf') format('opentype');
-  font-weight: 700;
+  font-family: 'BR Firma';
+  src: url('../fonts/BRFirma-Medium.woff2') format('woff2'),
+      url('../fonts/BRFirma-Medium.woff') format('woff'),
+      url('../fonts/BRFirma-Medium.ttf') format('truetype');
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
+
