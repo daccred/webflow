@@ -2053,7 +2053,8 @@ a {
   background-color: #000;
   background-image: url('../images/Illustration-gb.png');
   background-position: 0px 0px;
-  background-size: auto;
+  background-size: contain;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Br firma', sans-serif;
@@ -2124,7 +2125,7 @@ a {
   display: flex;
   overflow: hidden;
   min-height: 60vh;
-  padding-top: 110px;
+  padding-top: 100px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -3571,3 +3572,7 @@ a {
   background-color: whitesmoke;
   mix-blend-mode: multiply;
 } */
+.runtext__txt.ack-word {
+  font-size: 8rem;
+  line-height: 9rem;
+}
