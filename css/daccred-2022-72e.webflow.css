@@ -1,4 +1,4 @@
-ody {
+body {
   background-color: #f5f5f5;
   font-family: bilo;
   color: #2d2d2d;
@@ -3567,7 +3567,7 @@ a {
 
 
 /* ----------- CSS for each unique section by ID ----------- */
-#Protection {
+/* #Protection {
   background-color: whitesmoke;
   mix-blend-mode: multiply;
-}
+} */
